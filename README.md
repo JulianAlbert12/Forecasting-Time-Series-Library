@@ -1,6 +1,4 @@
 # CS 422 P1 README
-# Author: Nathaniel Mason
-# Group Name: Team 5
 
 ## Brief System Description:
 These files are for Team 5's system: Forecasting Time Series Library, or "FTL". The system is designed for two types of users, MLEs (Machine Learning Engineers) and Contributors. Contributors can upload pairs of files (training set and test set), and MLEs can download these files, perform some forecasting with Machine Learning, then upload their solution and see how their results compare to other solutions uploaded by other MLEs.
